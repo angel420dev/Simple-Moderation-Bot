@@ -1,0 +1,9 @@
+!log <channel>: Sets the channel for logging all moderation actions.
+!ban <user>: Bans the specified user from the server.
+!kick <user>: Kicks the specified user from the server.
+!timeout <user> <duration>: Mutes the user for a specified duration (in seconds).
+!clear <amount>
+!coinflip
+!trivia
+
+Logging: Logs message edits, deletes, kicks, bans, and timeouts to the specified log channel.

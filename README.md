@@ -14,8 +14,8 @@ The bots name is END, you can name it wtvr u want. This is a simple discord mode
 Make sure to put your discord bot token in the .env file before running the bot 
 
 # HOW TO RUN BOT IN TERMINAL
-cd "C:\Users\Name\Downloads\example_path"
-python end.py
+* cd "C:\Users\Name\Downloads\example_path"
+* python end.py
 
 Commands are in commands.txt
 

@@ -7,9 +7,9 @@ The bots name is END, you can name it wtvr u want. This is a simple discord mode
 
 # REQUIREMENTS
 
-discord.py 
-latest python package
-python dotenv
+* discord.py 
+* latest python package
+* python dotenv
 
 Make sure to put your discord bot token in the .env file before running the bot 
 

@@ -1,4 +1,4 @@
-# Simple-Moderation-Bot
+# END
 
 The bots name is END, you can name it wtvr u want. This is a simple discord moderation bot for your server, it has embeds, and moderations commands + two fun commands. This is just a sample code of what i can do as its a bot from when i first started out, feel free to use it and change it up however you would like!
 
